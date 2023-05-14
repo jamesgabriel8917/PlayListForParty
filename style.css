@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #757474;
+    padding: 20px;
+    text-align: center;
+}
+
+.dashboard-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.process-container {
+    height: 200px;
+    border-radius: 8px;
+}
