@@ -6,6 +6,7 @@ header {
     background-color: #757474;
     padding: 20px;
     text-align: center;
+    border-radius: 25px;
 }
 
 .dashboard-container {
